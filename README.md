@@ -13,7 +13,18 @@
   </a> 
 </p>
 
-<img align="right" alt="Programming" width="250" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- Use CSS media query to adjust alignment based on screen width -->
+<style>
+  @media (min-width: 768px) {
+    img.align-right-desktop {
+      float: right;
+      margin-left: 15px;
+    }
+  }
+</style>
+
+<!-- Align the GIF to the right on screens wider than 768px (desktop) -->
+<img class="align-right-desktop" alt="Programming" width="250" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h3 align="left">📫 How to reach me</h3>
 <a href="mailto:dv.mahbub@gmail.com" target="blank" style="text-decoration: none;">
@@ -30,54 +41,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://github.com/dv-mahbub/file/blob/main/gitub_profile/dart.png?raw=true" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://github.com/dv-mahbub/file/blob/main/gitub_profile/download.png?raw=true" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/dv-mahbub/file/blob/main/gitub_profile/firebase.png?raw=true" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/dv-mahbub/file/blob/main/gitub_profile/git.png?raw=true" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/dv-mahbub/file/blob/main/gitub_profile/postman.jpg?raw=true" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/dv-mahbub/file/blob/main/gitub_profile/figma.jpg?raw=true" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://github.com/dv-mahbub/file/blob/main/gitub_profile/xd.png?raw=true" alt="xd" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
+  <!-- Your icons here with appropriate links -->
 </p>
 
 <h3 align="left" style="margin-top: 30px;">Recent Projects:</h3>
