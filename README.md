@@ -26,39 +26,12 @@
 
 <h3 align="left" style="margin-top: 30px;">Languages and Tools:</h3>
 
-<p align="left">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
+### Languages and Tools:
 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+| [![Dart](URL_TO_DART_ICON)](https://dart.dev) | [![Flutter](URL_TO_FLUTTER_ICON)](https://flutter.dev) | [![Firebase](URL_TO_FIREBASE_ICON)](https://firebase.google.com/) | [![Git](URL_TO_GIT_ICON)](https://git-scm.com/) | [![Postman](URL_TO_POSTMAN_ICON)](https://postman.com) | [![Figma](URL_TO_FIGMA_ICON)](https://www.figma.com/) | [![Adobe XD](URL_TO_XD_ICON)](https://www.adobe.com/products/xd.html) | [![Android](URL_TO_ANDROID_ICON)](https://developer.android.com) | [![C](URL_TO_C_ICON)](https://www.cprogramming.com/) | [![Java](URL_TO_JAVA_ICON)](https://www.java.com) | [![Linux](URL_TO_LINUX_ICON)](https://www.linux.org/) | [![MS SQL Server](URL_TO_MSSQL_ICON)](https://www.microsoft.com/en-us/sql-server) | [![Python](URL_TO_PYTHON_ICON)](https://www.python.org) | [![HTML5](URL_TO_HTML5_ICON)](https://www.w3.org/html/) | [![CSS3](URL_TO_CSS3_ICON)](https://www.w3schools.com/css/) | [![Arduino](URL_TO_ARDUINO_ICON)](https://www.arduino.cc/) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Dart | Flutter | Firebase | Git | Postman | Figma | Adobe XD | Android | C | Java | Linux | MS SQL Server | Python | HTML5 | CSS3 | Arduino |
 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-
-  <a href="https://postman.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  
-
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-</p>
 
 <h3 align="left" style="margin-top: 30px; marging-bottom:0px;">Published Flutter Packages:</h3>
 <a href="https://pub.dev/packages/stylish_text">stylish_text</a>
