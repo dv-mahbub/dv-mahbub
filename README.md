@@ -15,7 +15,7 @@
 
 
 <!-- Align the GIF to the right on screens wider than 768px (desktop) -->
-<img class="align-center-desktop" alt="Programming" width="100%" src="[https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://github.com/dv-mahbub/file/blob/main/gitub_profile/programming.gif)">
+<img class="align-center-desktop" alt="Programming" width="100%" src="https://github.com/dv-mahbub/file/blob/main/gitub_profile/programming.gif">
 
 <h3 align="left">📫 How to reach me</h3>
 <a href="mailto:dv.mahbub@gmail.com" target="blank" style="text-decoration: none;">
