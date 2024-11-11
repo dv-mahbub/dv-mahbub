@@ -27,6 +27,9 @@
 <p align="left">
   <a href="https://linkedin.com/in/dv_mahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dv_mahbub" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucbdqg0ihujtaeo2sgoymkgw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucbdqg0ihujtaeo2sgoymkgw" height="30" width="40" /></a>
+
+  <a href="https://dv-mahbub.vercel.app" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5l7KT0jc8Y9ziUBqsWF1WSyfZBpo2VPfRiw&s" alt="Website" height="30" width="30" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,7 +43,7 @@
 <div style="display: flex; flex-direction: row;">
   <a href="https://github.com/dv-mahbub/faithful_path" target="_blank" rel="noreferrer" style="display: flex; align-items: center;"> <img src="https://github.com/dv-mahbub/faithful_path/blob/main/assets/images/logo.jpg?raw=true" alt="Faithful Path" width="40" height="40"/> <span style="margin-left: 10px; margin-right:30px;">Faithful Path</span>
   </a>
-  <a href="https://github.com/dv-mahbub/weather" target="_blank" rel="noreferrer" style="display: flex; align-items: center;"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Weather Update" width="40" height="40"/> <span style="margin-left: 10px; margin-right:30px;">Weather Update</span>
+  <a href="https://github.com/dv-mahbub/weather_demo" target="_blank" rel="noreferrer" style="display: flex; align-items: center;"> <img src="[https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg](https://raw.githubusercontent.com/dv-mahbub/weather_demo/refs/heads/main/assets/images/logo.png)" alt="Weather Update" width="40" height="40"/> <span style="margin-left: 10px; margin-right:30px;">Weather Update</span>
   </a>
   <a href="https://github.com/dv-mahbub/chatting_app" target="_blank" rel="noreferrer" style="display: flex; align-items: center;"> <img src="https://github.com/dv-mahbub/chatting_app/blob/main/android/app/src/main/res/mipmap-hdpi/message.png?raw=true" alt="Chat App" width="40" height="40"/> <span style="margin-left: 10px;">Chat App</span>
   </a>
